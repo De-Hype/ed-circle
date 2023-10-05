@@ -2,7 +2,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import "./utils/mediaQueries.css";
 import "./utils/TabScreen.css";
-import './utils/MidScreen.css'
+import './utils/MidScreen.css';
+import './utils/PhoneScreen.css'
 import Account from "./Pages/Account";
 import Courses from "./Pages/Courses";
 import CoursesResult from "./Pages/CoursesResult";

@@ -18,8 +18,8 @@ const Home = () => {
       <Explore/>
       <Tutors/>
       <Reviews/>
-      {/* <Blogs/> */}
-      {/* <Footer/> */}
+      <Blogs/>
+      <Footer/>
     </>
   );
 };

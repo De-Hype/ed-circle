@@ -17,7 +17,7 @@ const Blogs = () => {
               </h3>
               <p className="Blog_container_divided_box_wrapper_text">
                 Delight can be experienced viscerally, behaviourally, and
-                reflectively. A great design is ...
+                reflectively. A ...
               </p>
               <div className="Blog_container_divided_box_wrapper_tags">
                 <h4
@@ -47,7 +47,7 @@ const Blogs = () => {
               </h3>
               <p className="Blog_container_divided_box_wrapper_text">
                 Visual-design principles can be applied consistently throughout
-                the process of creating a polished UX map...
+                the process of creating a...
               </p>
               <div className="Blog_container_divided_box_wrapper_tags">
                 <h4

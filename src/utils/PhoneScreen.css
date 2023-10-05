@@ -1,0 +1,39 @@
+@media screen and (max-width:540px) {
+    .hero_bottom_box img{
+        width: 14px;
+        height: 14px;
+    }
+    
+    .hero_bottom_box_text{
+        font-size: 8px;
+    }
+    .Blog_container_divided_box{
+        flex-direction: column;
+    }
+    .Blog_container_divided{
+        flex-direction: column;
+        /* background: black;   */
+    }
+    .Partners{
+        grid-template-columns: repeat(4, 1fr);
+        
+    }
+    .Partners h3{
+        display: none;
+    }
+    .Tutors_boxes_container{
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
+    .Reviews_Center{
+        gap: 14rem;
+    }
+    .footer_top_sections{
+        margin-top: 1.34rem;
+        align-self: flex-start;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+        gap: 3rem;
+    }
+}
+

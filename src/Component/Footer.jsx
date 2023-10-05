@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="Footer_bottom">
-        <h4 className="footer_bottom_text">
+        <h4 className="footer_bottom_text disapear">
           © 2023 Ed-Circle. All rights reserved.
         </h4>
         <h4 className="footer_bottom_text">

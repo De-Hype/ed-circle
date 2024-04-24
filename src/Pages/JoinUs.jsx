@@ -1,6 +1,7 @@
 import { AiTwotoneCheckCircle } from "react-icons/ai";
 import Tutor from '../assets/undraw/Tutor.svg';
-import Student from '../assets/undraw/Student.svg'
+import Student from '../assets/undraw/Student.svg';
+
 const JoinUs = () => {
   return (
     <div className="JoinUs">
